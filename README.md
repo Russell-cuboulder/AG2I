@@ -30,6 +30,8 @@ Measured against the manufacturer's reference solution on the publicly distribut
 | **OpenNavHD** | HD mapping & positioning for autonomous vehicles |
 | **OpenVoxelite** | Volumetric fusion of imagery and LiDAR |
 | **OpenGeoLook** | Geospatial data discovery and conditioning |
+| **OpenGIS** | Geospatial workbench for inspecting, styling & analyzing vector and raster data |
+| **OpenMultiAgent** | Multi-agent orchestration that plans, dispatches & verifies large-scale production |
 
 ## Contact
 
