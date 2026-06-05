@@ -2,7 +2,7 @@
 
 ### [ag2i.ai](https://ag2i.ai)
 
-![AG2I — Artificial Geospatial General Intelligence](https://ag2i.ai/og-image.png?v=2)
+![AG2I — Artificial Geospatial General Intelligence](https://ag2i.ai/og-image.png?v=3)
 
 **AG2I** is a ground-up geospatial processing platform that turns raw aerial, oblique, LiDAR, and satellite data into survey-grade, machine-readable products — with accuracy you can **prove**, not just quote. Fully automated, adaptive workflows are designed around the data, not the other way around.
 
