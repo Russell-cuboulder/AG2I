@@ -28,6 +28,8 @@ Measured against the manufacturer's reference solution on the publicly distribut
 | **OpenLineWorks** | Vector & raster alignment and registration |
 | **OpenGeoserve** | Server-side GPU rendering and pixel streaming |
 | **OpenNavHD** | HD mapping & positioning for autonomous vehicles |
+| **OpenStreetX** | Street-level imagery & LiDAR processing (raw → registered products) |
+| **OpenFeatureX** | Automated geospatial feature extraction (HD-map features from imagery) |
 | **OpenVoxelite** | Volumetric fusion of imagery and LiDAR |
 | **OpenGeoLook** | Geospatial data discovery and conditioning |
 | **OpenGIS** | Geospatial workbench for inspecting, styling & analyzing vector and raster data |
