@@ -32,7 +32,7 @@ Measured against the manufacturer's reference solution on the publicly distribut
 | **OpenFeatureX** | Automated geospatial feature extraction (HD-map features from imagery) |
 | **OpenVoxelite** | Volumetric fusion of imagery and LiDAR |
 | **OpenGeoLook** | Geospatial data discovery and conditioning |
-| **OpenGIS** | Geospatial workbench for inspecting, styling & analyzing vector and raster data |
+| **OpenGeoCad** | Geospatial CAD platform — full CAD entity model with first-class coordinate reference systems |
 | **OpenMultiAgent** | Multi-agent orchestration that plans, dispatches & verifies large-scale production |
 
 ## Contact
